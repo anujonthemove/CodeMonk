@@ -1,8 +1,8 @@
 # CodeMonk
 My Solutions for Algorithmic Problems Written in C Programming Language.
 
-* If you like my project, please <span style="color: crimson;">STAR</style> me. :)
-* And don't forget to visit my youtube [channel]() for a detailed explanation for the solutions. ;)
+* If you like my project, please :star:**STAR** me. :smile:
+* And don't forget to visit [my youtube channel]() for a detailed explanation for the solutions. :laughing:
 
 ======
 
