@@ -15,4 +15,4 @@ My Solutions for Algorithmic Problems Written in C Programming Language.
 | :----------: | :------: |
 | [codeeval](https://www.codeeval.com/) | 1 |
 | [poj](http://poj.org/) | 1 |
-| [timus](http://acm.timus.ru/) | 1 |
+| [timus](http://acm.timus.ru/) | 18 |
