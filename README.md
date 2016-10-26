@@ -14,6 +14,6 @@ My Solutions for Algorithmic Problems Written in C Programming Language.
 | Online Judge | Number of Solved Problems |
 | :----------: | :------: |
 | [hacker earth](https://www.hackerearth.com/challenges/) | 1 |
-<!--- | [code eval](https://www.codeeval.com/) | 1 | --->
-<!--- | [poj](http://poj.org/) | 1 | --->
-<!--- | [timus](http://acm.timus.ru/) | 31 | --->
+<!-- | [code eval](https://www.codeeval.com/) | 1 | -->
+<!-- | [poj](http://poj.org/) | 1 | -->
+<!-- | [timus](http://acm.timus.ru/) | 31 | -->
