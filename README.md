@@ -2,7 +2,7 @@
 My Solutions for Algorithmic Problems Written in C Programming Language.
 
 * If you like my project, please :star:**STAR**:star: me. :smile:
-* And don't forget to visit my [youtube channel]() and [homepage](http://www.yangyanzhan.com/) for a detailed explanation for these solutions. :laughing:
+* And don't forget to visit my [YouTube Channel]() and [Home Page](http://www.yangyanzhan.com/) for a detailed explanation for these solutions. :laughing:
 
 ======
 
