@@ -12,7 +12,7 @@ My Solutions for Algorithmic Problems Written in C Programming Language.
 ======
 
 > Bonus：
-> If you have any specific algorithmic problems that you want a solution and explanation, please leave a comment at my [YouTube Channel]() or [Home Page - www.yangyanzhan.com](http://www.yangyanzhan.com/) or directly send me an email at :mailbox:(yangyanzhan@gmail.com):mailbox:.
+> If you have any specific algorithmic problems that you want a solution and explanation, please leave a comment at my [YouTube Channel]() or [Home Page - www.yangyanzhan.com](http://www.yangyanzhan.com/) or directly send me an email at yangyanzhan@gmail.com.
 
 ======
 
