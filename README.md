@@ -13,4 +13,4 @@ My Solutions for Algorithmic Problems Written in C Programming Language.
 
 | Online Judge | Number of Solved Problems |
 | :----------: | :------: |
-| [Hacker Earth](https://www.hackerearth.com/challenges/) | 37 |
+| [Hacker Earth](https://www.hackerearth.com/challenges/) | 61 |
