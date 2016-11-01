@@ -9,6 +9,8 @@ My Solutions for Algorithmic Problems Written in C Programming Language.
 > Usage：
 > 
 > My solutions for all kinds of online judges are listed below. Let's say you want to view the answer to **_"A + B"_** problem on **_timus_** online judge (acm.timus.ru). You can find out that the **_problem id_** for this specific problem on timus is **_1000_**. So the solution to this problem is the file named **_"1000.c"_** in the **_"solutions/timus/"_** directory of this project. The same goes with other online judges like Hacker Earth etc.
+> 
+> You can also check out corresponding wiki page which contains the solution list in this project for a specific online judge. For instance, if you want to see all the solutions for Hacker Earth, you can have a look at the Hacker Earth [wiki page](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Earth).
 
 ======
 
