@@ -1,4 +1,6 @@
 Makefile
 code.c
+code.cpp
 a.out
 in
+out
