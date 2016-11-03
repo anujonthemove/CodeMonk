@@ -27,4 +27,4 @@ My Solutions for Algorithmic Problems Written in C & C++ Programming Language.
 | Online Judge | Number of Solved Problems | Wiki Page for Solutions |
 | :----------: | :------: | :------: |
 | [Hacker Earth](https://www.hackerearth.com/challenges/) | 61 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Earth) |
-| [Hacker Rank](https://www.hackerrank.com/) | 12 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Rank) |
+| [Hacker Rank](https://www.hackerrank.com/) | 26 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Rank) |
