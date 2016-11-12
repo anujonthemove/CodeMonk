@@ -28,4 +28,4 @@ My Solutions for Algorithmic Problems Written in C & C++ Programming Language.
 | :----------: | :------: | :------: |
 | [Hacker Earth](https://www.hackerearth.com/challenges/) | 76 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Earth) |
 | [Hacker Rank](https://www.hackerrank.com/) | 26 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Rank) |
-| [Geeks for Geeks](http://www.geeksforgeeks.org/) | 1 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Geeks-For-Geeks)
+| [Geeks for Geeks](http://www.geeksforgeeks.org/) | 16 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Geeks-For-Geeks)
