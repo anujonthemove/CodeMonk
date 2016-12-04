@@ -26,6 +26,7 @@ My Solutions for Algorithmic Problems Written in C & C++ Programming Language.
 
 | Online Judge | Number of Solved Problems | Wiki Page for Solutions |
 | :----------: | :------: | :------: |
-| [Hacker Earth](https://www.hackerearth.com/challenges/) | 80 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Earth) |
-| [Hacker Rank](https://www.hackerrank.com/) | 106 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Rank) |
-| [Geeks for Geeks](http://www.geeksforgeeks.org/) | 16 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Geeks-For-Geeks)
+| [Leet Code](https://leetcode.com/) | 2 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Leet Code) |
+| [Hacker Earth](https://www.hackerearth.com/challenges/) | 85 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Earth) |
+| [Hacker Rank](https://www.hackerrank.com/) | 107 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Rank) |
+| [Geeks for Geeks](http://www.geeksforgeeks.org/) | 17 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Geeks-For-Geeks)
