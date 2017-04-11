@@ -1,6 +1,14 @@
 #include "util.h"
 
-int main() {
+int main(int argc, char **argv) {
+    string command{argv[0]};
+    for (int i = command.size() - 1; i >= 0; i--) {
+        if (command[i] == '/') {
+            command = command.substr(0, i);
+            break;
+        }
+    }
+    chdir(command.c_str());
     map<string, string> wiki_mapping{{"leetcode", "Leet-Code.md"}, {"hackerrank", "Hacker-Rank.md"}, {"hackerearth", "Hacker-Earth.md"}};
     load_config();
     vector<string> platforms{"leetcode", "hackerearth", "hackerrank"};
