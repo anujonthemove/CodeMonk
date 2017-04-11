@@ -3,7 +3,7 @@ My Solutions for Algorithmic Problems Written in C & C++ Programming Language.
 
 * If you like my project, please :star:**STAR**:star: me. :smile:
 
-======
+---
 
 > Usage：
 >
@@ -11,15 +11,15 @@ My Solutions for Algorithmic Problems Written in C & C++ Programming Language.
 >
 > You can also check out corresponding [Solution Wiki Page](https://github.com/yangyanzhan/CodeMonk/wiki) which contains the solution list in this project for a specific online judge. For instance, if you want to see all the solutions for Hacker Earth, you can have a look at the [Hacker Earth Solution Wiki Page](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Earth).
 
-======
+---
 
 * Also, if you have any **job opportunities** or **offers**, please contact me at :mailbox:(yangyanzhan@gmail.com):mailbox:. Thank you~ :blush:
 
-======
+---
 
 | Online Judge | Number of Solved Problems | Wiki Page for Solutions |
 | :----------: | :------: | :------: |
-| [Leet Code](https://leetcode.com/) | 144 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Leet Code) |
+| [Leet Code](https://leetcode.com/) | 144 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Leet-Code) |
 | [Hacker Earth](https://www.hackerearth.com/challenges/) | 85 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Earth) |
 | [Hacker Rank](https://www.hackerrank.com/) | 109 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Hacker-Rank) |
 | [Geeks for Geeks](http://www.geeksforgeeks.org/) | 17 | [Solution List](https://github.com/yangyanzhan/CodeMonk/wiki/Geeks-For-Geeks)
